@@ -1,0 +1,1 @@
+I worked on this learning path even though I was familiar with TryHackMe but I am glad I did this because I learned a ton of new information so I would highly recommend doing this path.
